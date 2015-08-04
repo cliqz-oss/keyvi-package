@@ -1,0 +1,53 @@
+keyvi (0.1.1-1ubuntu8) trusty; urgency=medium
+
+  * remove custom magic
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Mon, 03 Aug 2015 23:41:37 +0200
+
+keyvi (0.1.1-1ubuntu7) trusty; urgency=medium
+
+  * correct makefile
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Mon, 03 Aug 2015 22:31:15 +0200
+
+keyvi (0.1.1-1ubuntu6) trusty; urgency=medium
+
+  * adding cython
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Mon, 03 Aug 2015 21:53:27 +0200
+
+keyvi (0.1.1-1ubuntu5) trusty; urgency=medium
+
+  * correct python setuptools
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Mon, 03 Aug 2015 21:39:52 +0200
+
+keyvi (0.1.1-1ubuntu4) trusty; urgency=medium
+
+  * setuptools, debhelp, architecture
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Mon, 03 Aug 2015 21:25:47 +0200
+
+keyvi (0.1.1-1ubuntu3) trusty; urgency=medium
+
+  * add cmake dep for TPIE
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Mon, 03 Aug 2015 21:11:53 +0200
+
+keyvi (0.1.1-1ubuntu2) trusty; urgency=medium
+
+  * add zlib build depends
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Mon, 03 Aug 2015 21:00:45 +0200
+
+keyvi (0.1.1-1ubuntu1) trusty; urgency=medium
+
+  * fix packaging
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Mon, 03 Aug 2015 20:50:23 +0200
+
+keyvi (0.1.1-1) trusty; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Thu, 30 Jul 2015 21:30:16 +0200
