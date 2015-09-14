@@ -82,3 +82,5 @@ cp -r ../../debian build/
 cd build
 tar xvfz ../keyvi_$VERSION.orig.tar.gz --strip-components 1
 debuild -S
+
+echo "to upload to PPA use dput keyvi {PACKAGE}.changes"
