@@ -33,7 +33,7 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: key value index
  Keyvi is key value index based on Finite State Transducer
 
-Package: python-pykeyvi
+Package: python-keyvi
 Section: python
 Architecture: amd64
 Depends: ${shlibs:Depends}, ${misc:Depends}

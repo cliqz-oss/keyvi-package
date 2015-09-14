@@ -70,8 +70,8 @@ echo "Starting build...."
 ############################
 
 dch --distribution $DISTRIBUTION -v $VERSION
-git commit debian/changelog ""
-echo "Please commit to git"
+git add debian/changelog
+git commit -m "release version $VERSION"
 
 mkdir -p $BUILD_DIR/$VERSION/build
 
