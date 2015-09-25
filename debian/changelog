@@ -1,3 +1,9 @@
+keyvi (0.1.5) trusty; urgency=medium
+
+  * release 0.1.5, (disable lazy load)
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Fri, 25 Sep 2015 15:40:18 +0200
+
 keyvi (0.1.4) trusty; urgency=medium
 
   * release 0.1.4 (fixing problems for GetStatistics)
