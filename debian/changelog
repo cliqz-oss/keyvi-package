@@ -1,3 +1,9 @@
+keyvi (0.1.6) trusty; urgency=medium
+
+  * bugfix release
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Fri, 25 Sep 2015 17:53:27 +0200
+
 keyvi (0.1.5) trusty; urgency=medium
 
   * release 0.1.5, (disable lazy load)
