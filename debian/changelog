@@ -1,3 +1,9 @@
+keyvi (0.1.7.0) trusty; urgency=medium
+
+  * support for 64bit in hashtable, snappy compression, some improvements
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Fri, 30 Oct 2015 10:47:48 +0100
+
 keyvi (0.1.6) trusty; urgency=medium
 
   * bugfix release
