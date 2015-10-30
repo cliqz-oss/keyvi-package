@@ -1,8 +1,8 @@
-keyvi (0.1.7.0) trusty; urgency=medium
+keyvi (0.1.7) trusty; urgency=medium
 
-  * support for 64bit in hashtable, snappy compression, some improvements
+  * 64bit hashtable, snappy compression, faster dump
 
- -- Hendrik Muhs <hendrik.muhs@gmail.com>  Fri, 30 Oct 2015 10:47:48 +0100
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Fri, 30 Oct 2015 10:51:09 +0100
 
 keyvi (0.1.6) trusty; urgency=medium
 
