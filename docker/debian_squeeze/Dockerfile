@@ -55,3 +55,15 @@ RUN apt-get install -y scons
 
 # upgrade pip
 RUN cd /work && wget https://bootstrap.pypa.io/get-pip.py --no-check-certificate && python get-pip.py
+
+# install cython
+RUN pip install cython
+
+# build keyvi
+RUN export MY_GXX_HOME="/work/gcc/rtf/" && \
+export PATH="${MY_GXX_HOME}/bin:${PATH}" && \
+export LD_LIBRARY_PATH="${MY_GXX_HOME}/lib:${MY_GXX_HOME}/lib64:${LD_LIBRARY_PATH}" && \
+export LD_RUN_PATH="${MY_GXX_HOME}/lib:${MY_GXX_HOME}/lib64:${LD_LIBRARY_PATH}" && \
+export CXX=/work/gcc/rtf/bin/g++ && \
+cd /work/keyvi/keyvi/ && \
+scons --boost-dir=/work/gcc/rtf/
