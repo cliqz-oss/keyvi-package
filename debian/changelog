@@ -1,3 +1,15 @@
+keyvi (0.1.14) trusty; urgency=medium
+
+  * compiler runtime optimizations
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Thu, 21 Jan 2016 13:45:19 +0100
+
+keyvi (0.1.12) trusty; urgency=medium
+
+  * add no minimization option
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Tue, 12 Jan 2016 16:17:54 +0100
+
 keyvi (0.1.10) trusty; urgency=medium
 
   * new proximity matching method
