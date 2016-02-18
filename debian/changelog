@@ -1,3 +1,9 @@
+keyvi (0.1.15) trusty; urgency=medium
+
+  * fix a size issue in the compiler
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Thu, 18 Feb 2016 14:30:20 +0100
+
 keyvi (0.1.14) trusty; urgency=medium
 
   * compiler runtime optimizations
