@@ -1,3 +1,9 @@
+keyvi (0.1.16) trusty; urgency=medium
+
+  * fixes for running in pyspark
+
+ -- Hendrik Muhs <hendrik.muhs@gmail.com>  Tue, 08 Mar 2016 11:12:10 +0100
+
 keyvi (0.1.15) trusty; urgency=medium
 
   * fix a size issue in the compiler
